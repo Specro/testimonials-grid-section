@@ -29,6 +29,9 @@ module.exports = {
       },
       backgroundSize: {
         quotation: '116px'
+      },
+      boxShadow: {
+        card: '15px 25px 35px 0 rgba(0, 0, 0, 0.1)'
       }
     },
   },
